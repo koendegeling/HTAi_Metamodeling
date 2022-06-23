@@ -5,7 +5,7 @@ This is the repository for the short course on "Reducing the Computational Burde
 The repository contains three important files:
 
 * `code.R`: the script containing the R code
-* `objects.RDA`: the object containing the health economic model (HEM) and runHEM() function to run the HENM
+* `objects.RDA`: the object containing the health economic model (HEM) and runHEM() function to run the HEM
 * `HTAi_Metamodeling.Rproj`: the R Studio project file that can be loaded to set up R Studio session
 
 The code illustrates the use of metamodels to address run time issues (i.e., the computational burden) of a health economic
